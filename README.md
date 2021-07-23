@@ -7,10 +7,6 @@
 <center>
 
 ###  **Skills**
-
-</center>
-
-<center>
 Programming Language: <br>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/><br>
