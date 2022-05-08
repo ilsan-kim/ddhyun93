@@ -11,27 +11,23 @@
 
 ###  **Skills**
 Programming Language: <br>
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/><br>
-Web Frameworks:<br>
-<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-green?logo=fastapi&style=for-the-badge"/>
-<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-<img alt="echo" src="https://img.shields.io/badge/-echo-yellow?logo=koding&logoColor=white&style=for-the-badge"/><br>
-Database:<br>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><br>
-Server:<br>
-<img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
-<img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/><br>
-Cloud:<br>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/><br>
-ETC:<br>
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="JIRA" src="https://img.shields.io/badge/-jira-skyblue?logo=jirasoftware&logoColor=white&style=for-the-badge"/>
-<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-
-
+<img alt="Python" src="https://img.shields.io/badge/-python-white?logo=python"/>
+<img alt="Go" src="https://img.shields.io/badge/-go-white?logo=go"/>
+<img alt="Kotlin" src="https://img.shields.io/badge/-kotlin-white?logo=kotlin"/><br>
+Skills:<br>
+<img alt="FastAPI" src="https://img.shields.io/badge/-fastapi-green?logo=fastapi"/>
+<img alt="SpringBoot" src="https://img.shields.io/badge/-springboot-green?logo=Spring%20Boot"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/-mongodb-green?logo=MongoDB"/>
+<img alt="MySQL" src="https://img.shields.io/badge/-mysql-green?logo=MySQL"/>
+<img alt="Nginx" src="https://img.shields.io/badge/-nginx-green?logo=nginx"/>
+<img alt="GraphQL" src="https://img.shields.io/badge/-graphql-green?logo=GraphQL"/>
+<img alt="Redis" src="https://img.shields.io/badge/-redis-green?logo=Redis"/>
+<img alt="Elastcsearch" src="https://img.shields.io/badge/-elasticsearch-green?logo=Elasticsearch"/><br>
+<img alt="AWS" src="https://img.shields.io/badge/-aws-black?logo=Amazon%20AWS"/>
+<img alt="Docker" src="https://img.shields.io/badge/-dcoker-black?logo=Docker"/><br>
+Blog:<br>
+<a href="https://velog.io/@ddhyun93">連結</a>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddhyun93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </center>
   
