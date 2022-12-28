@@ -9,22 +9,8 @@
 
 <center>
 
-###  **Skills**
-Programming Language: <br>
-<img alt="Python" src="https://img.shields.io/badge/-python-white?logo=python"/>
-<img alt="Go" src="https://img.shields.io/badge/-go-white?logo=go"/>
-<img alt="Kotlin" src="https://img.shields.io/badge/-kotlin-white?logo=kotlin"/><br>
-Skills:<br>
-<img alt="FastAPI" src="https://img.shields.io/badge/-fastapi-green?logo=fastapi"/>
-<img alt="SpringBoot" src="https://img.shields.io/badge/-springboot-green?logo=Spring%20Boot"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/-mongodb-green?logo=MongoDB"/>
-<img alt="MySQL" src="https://img.shields.io/badge/-mysql-green?logo=MySQL"/>
-<img alt="Nginx" src="https://img.shields.io/badge/-nginx-green?logo=nginx"/>
-<img alt="GraphQL" src="https://img.shields.io/badge/-graphql-green?logo=GraphQL"/>
-<img alt="Redis" src="https://img.shields.io/badge/-redis-green?logo=Redis"/>
-<img alt="Elastcsearch" src="https://img.shields.io/badge/-elasticsearch-green?logo=Elasticsearch"/><br>
-<img alt="AWS" src="https://img.shields.io/badge/-aws-black?logo=Amazon%20AWS"/>
-<img alt="Docker" src="https://img.shields.io/badge/-dcoker-black?logo=Docker"/><br>
+![image](https://user-images.githubusercontent.com/58629967/209828881-6f2441e3-77b0-48b1-9175-a5b2954904d0.png)
+
 Blog:<br>
 <a href="https://velog.io/@ddhyun93">連結</a>
   
